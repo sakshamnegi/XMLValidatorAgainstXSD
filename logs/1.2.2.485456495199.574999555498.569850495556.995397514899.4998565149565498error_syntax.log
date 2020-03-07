@@ -1,0 +1,4 @@
+ERROR ON LINE 1 b"Element '{http://schemas.openehr.org/v1}composition': The attribute 'archetype_node_id' is required but missing."
+
+ERROR ON LINE 1 b"Element '{http://schemas.openehr.org/v1}uid': This element is not expected. Expected is ( {http://schemas.openehr.org/v1}name )."
+
